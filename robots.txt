@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://schmidtweston-ship-it.github.io/weston-lessons/sitemap.xml
